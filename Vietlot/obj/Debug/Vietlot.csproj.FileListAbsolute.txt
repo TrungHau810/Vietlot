@@ -1,0 +1,12 @@
+D:\LT_GiaoDien\Vietlot\Vietlot\bin\Debug\Vietlot.exe.config
+D:\LT_GiaoDien\Vietlot\Vietlot\bin\Debug\Vietlot.exe
+D:\LT_GiaoDien\Vietlot\Vietlot\bin\Debug\Vietlot.pdb
+D:\LT_GiaoDien\Vietlot\Vietlot\obj\Debug\Vietlot.csproj.AssemblyReference.cache
+D:\LT_GiaoDien\Vietlot\Vietlot\obj\Debug\Vietlot.FrmLogin.resources
+D:\LT_GiaoDien\Vietlot\Vietlot\obj\Debug\Vietlot.Properties.Resources.resources
+D:\LT_GiaoDien\Vietlot\Vietlot\obj\Debug\Vietlot.csproj.GenerateResource.cache
+D:\LT_GiaoDien\Vietlot\Vietlot\obj\Debug\Vietlot.csproj.CoreCompileInputs.cache
+D:\LT_GiaoDien\Vietlot\Vietlot\obj\Debug\Vietlot.exe
+D:\LT_GiaoDien\Vietlot\Vietlot\obj\Debug\Vietlot.pdb
+D:\LT_GiaoDien\Vietlot\Vietlot\obj\Debug\Vietlot.DangKy.resources
+D:\LT_GiaoDien\Vietlot\Vietlot\obj\Debug\Vietlot.MainScreen.resources
